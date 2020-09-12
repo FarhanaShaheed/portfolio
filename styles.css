@@ -1,0 +1,46 @@
+
+.img{
+    height: 230px;
+    width: 200px;
+    
+}
+h2{
+    color:pink;
+    font-size: 300%;
+}
+.submit{
+    background-color: brown;
+    height: 30px;
+    width: 120px;
+}
+.intro{
+    float: left;
+}
+.bio{
+    padding-top: 50px;
+    float:left;
+}
+.sec{
+    float:right;
+    padding-left: 50px;
+}
+.workimg{
+    height:300px;
+    width: 400px;
+    
+}
+.latest{
+    float: left;
+    text-align: center;
+}
+p1{
+    color:gray;
+}
+p2{
+    font-size: 30px;
+}
+.last{
+    background-color: hotpink;
+    height: 50px;
+    width: 200px;
+}

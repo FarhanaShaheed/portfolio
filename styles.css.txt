@@ -1,0 +1,7 @@
+#intro{
+ display:flex;
+
+ }
+body {
+  background-color: powderblue;
+}
