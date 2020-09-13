@@ -1,46 +1,40 @@
-
-.img{
-    height: 230px;
-    width: 200px;
+h2{
+    color: #da0978;
+    font-size: 150%;
     
 }
-h2{
-    color:pink;
-    font-size: 300%;
+.hireme{
+    background-color:rgb(212, 84, 105);
+    text-align: center;
+    font-size: 17px;
+    color: cornsilk;
 }
-.submit{
-    background-color: brown;
-    height: 30px;
-    width: 120px;
+.header_image{
+    height: 200px;
+    width: 200px;
 }
-.intro{
+.header{
     float: left;
+}
+.cv{
+    background-color:rgb(236, 29, 209);
+    text-align: center;
+    font-size: 17px;
+    color: cornsilk;
+}
+.bio_image{
+    height: 200px;
+    width: 200px;
 }
 .bio{
-    padding-top: 50px;
-    float:left;
-}
-.sec{
-    float:right;
-    padding-left: 50px;
-}
-.workimg{
-    height:300px;
-    width: 400px;
+    float: left;
     
 }
-.latest{
-    float: left;
-    text-align: center;
-}
-p1{
-    color:gray;
-}
-p2{
-    font-size: 30px;
+.working{
+    height:300px;
+    width: 400px;
 }
 .last{
-    background-color: hotpink;
-    height: 50px;
-    width: 200px;
+    background-color:rgb(173, 22, 128);
+    color: cornsilk;
 }
