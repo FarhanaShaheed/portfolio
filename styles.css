@@ -1,40 +1,88 @@
-h2{
-    color: #da0978;
-    font-size: 150%;
-    
+section{
+    height: 600px;
+}
+
+.header_detail{
+    float: left;
+    width: 40%;
+    padding: 5%;
+
+}
+.header_bg{
+    background-image: url(images/header.jpg.png);
+    background-repeat: no-repeat;
+    height: 600px;
+}
+.jack{
+    color: rgb(184, 8, 96);
 }
 .hireme{
-    background-color:rgb(212, 84, 105);
-    text-align: center;
-    font-size: 17px;
-    color: cornsilk;
+    background-color: indigo;
+    color: ivory;
 }
-.header_image{
-    height: 200px;
-    width: 200px;
-}
-.header{
-    float: left;
-}
-.cv{
-    background-color:rgb(236, 29, 209);
-    text-align: center;
-    font-size: 17px;
-    color: cornsilk;
-}
-.bio_image{
-    height: 200px;
-    width: 200px;
+.header_detail img{
+    width: 60%;
+    margin-top: -10%;
 }
 .bio{
+    background-image: url(images/biography.jpg.png);
+    background-repeat: no-repeat;
+    height: 600px;
+}
+
+.bio_detail{
     float: left;
-    
+    width: 40%;
+    padding: 5%;
 }
-.working{
-    height:300px;
-    width: 400px;
+.bio_detail img{
+    width: 60%;
+    margin-top: -10%;
 }
-.last{
-    background-color:rgb(173, 22, 128);
-    color: cornsilk;
+.center
+{
+    text-align: center;
+    margin-bottom: 6%;
+}
+.one_third{
+    float: left;
+    width: 33%;
+}
+.one_third img{
+    width: 85%;
+    padding-left: 10%;;
+}
+.work{
+    background-image: url(images/latest.jpg.png);
+    background-repeat: no-repeat;
+    height: 600px;
+}
+h3{
+    margin-top: 2%;
+}
+.founder{
+    color: darkgray;
+    margin-top: -1%;
+
+}
+.lorem{
+    margin-top: 2%;
+    font-weight: bold;
+}
+.last_button{
+    background-color: indigo;
+    color:ivory;
+    margin-top: 3%;
+    border-radius: 12px;
+    width: 30%;
+}
+footer{
+    text-align: center;
+    background-image: url(images/footer.jpg.png);
+    background-repeat: no-repeat;
+    height: 600px;
+}
+.copy_write{
+    color: darkgray;
+    margin-top: 5%;
 }
